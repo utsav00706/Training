@@ -1,3 +1,3 @@
 a=9
 b=7
-print(a+b)
+print("the sum is", a+b)
