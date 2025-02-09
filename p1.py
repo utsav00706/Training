@@ -1,9 +1,4 @@
 def sum(a,b):
-  print(a+b)
-sum(6,7)
-
-
-
-<br/>
-print("hi this is munna")
+  return a+b
+print("hi this is Munna and sun is ", sum(6,7))
 
